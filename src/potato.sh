@@ -1,1 +1,1 @@
-/home/henry/potato/potato.sh
+/home/hendog4eva/Development/potato/potato.sh

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WORK=30
+WORK=25
 PAUSE=5
 CYCLES=4
 INTERACTIVE=true
@@ -15,8 +15,8 @@ show_help() {
 
 		    -m: mute -- don't play sounds when work/break is over
 		    -w m: let work periods last m minutes (default is 25)
-		    -b m: let break periods last m minutes (default is 5)
-        -c n: let number of cycles be n (default is 4)
+		    -b m: let break periods last m minutes (default is 5)       
+    -c n: let number of cycles be n (default is 4)
 		    -h: print this message
 	END
 }
